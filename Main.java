@@ -11,11 +11,8 @@ import java.io.FileNotFoundException;
 
 /**
  * Khushi Jogani
- * ITSS 3312.002
  */
-//runner class
-public class KhushiJogani_002_Project2 {
-	//main method
+public class Main {
 	public static void main(String[] args) throws IOException {
 		//declared variables
 		Random rand = new Random();
